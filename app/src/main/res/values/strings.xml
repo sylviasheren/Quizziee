@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Quizziee</string>
+    <string name="q1">What is the  name of this character?</string>
+    <string name="op1.1">Matilda</string>
+    <string name="op1.2">Agnes</string>
+    <string name="op1.3">Cindrella</string>
+    <string name="op1.4">Belinda</string>
+    <string name="q2">What is the name of this game?</string>
+    <string name="op2.1">Grand Theft Auto V</string>
+    <string name="op2.2">Sleeping Dogs</string>
+    <string name="op2.3">Angry Birds</string>
+    <string name="op2.4">Prototype</string>
+    <string name="q3">Name the character</string>
+    <string name="op3.1">Tom</string>
+    <string name="op3.2">Parker</string>
+    <string name="op3.3">Ferb</string>
+    <string name="op3.4">Jerry</string>
+    <string name="q4">Name the characters</string>
+    <string name="op4.1">Phineas </string>
+    <string name="op4.2">Tom </string>
+    <string name="op4.3">Ferb</string>
+    <string name="op4.4">Petunia </string>
+    <string name="q5">Name the character</string>
+    <string name="op5.1">Phineas</string>
+    <string name="op5.2">Tom</string>
+    <string name="op5.3">Ferb</string>
+    <string name="op5.4">Petunia</string>
+    <string name="score">Check your score!</string>
+    <string name="retry">Retry the quiz!</string>
+</resources>
